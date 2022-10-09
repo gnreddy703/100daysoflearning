@@ -44,7 +44,7 @@ The first field actually contains ten characters, where the first character indi
             
 drwxr-x--- 2 root   adm    4096 Dec 20  2017 apache2 
 
-Symbol	|File Type			|Description
+Symbol    |File Type			|Description
 d              |directory			|A file used to store other files.
 -				|regular file		|Includes readable files, images files, binary files, and compressed files.
 l				|symbolic link	|Points to another file.
