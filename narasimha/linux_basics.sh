@@ -3,7 +3,7 @@
 Most commands follow a simple pattern of syntax:
 command [options…] [arguments…]
 
-#List of  current directory -Listing Files
+#List of  current directory -Listing Files .
 ls
 # list  files in a directory example
 ls Documents
